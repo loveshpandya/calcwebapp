@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Calculator Test 2</h2>
+<h2>Calculator</h2>
 
 
 <%
